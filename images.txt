@@ -10,4 +10,6 @@ nginx
 mlikiowa/napcat-docker
 
 #小雅
-xiaoyaliu/alist:latest
+ghcr.io/monlor/xiaoya-alist:latest
+ghcr.io/monlor/xiaoya-metadata:latest
+ghcr.io/monlor/xiaoya-embyserver:latest
