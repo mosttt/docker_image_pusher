@@ -13,3 +13,6 @@ mlikiowa/napcat-docker
 ghcr.io/monlor/xiaoya-alist:latest
 ghcr.io/monlor/xiaoya-metadata:latest
 ghcr.io/monlor/xiaoya-embyserver:latest
+
+#GPT-SoVITS docker image
+cnstark/pytorch:2.0.1-py3.9.17-cuda11.8.0-ubuntu20.04
