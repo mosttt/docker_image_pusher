@@ -6,7 +6,7 @@
 
 nginx
 
-#qqbot napcat 
+#qqbot napcat good
 mlikiowa/napcat-docker
 --platform=linux/arm64 mlikiowa/napcat-docker
 
